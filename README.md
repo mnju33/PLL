@@ -1,9 +1,7 @@
 # PLL
 
 ## 📄 Presentation
-👉 [View PDF](./5ROSC.pdf)
-
-👉 [View PDF](./Layout.pdf)
+👉 [View PDF](./)
 
 ---
 
